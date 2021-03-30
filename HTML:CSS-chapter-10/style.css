@@ -56,21 +56,21 @@ footer {
   background-color: #aaa;
 }
 @media screen and (max-width: 768px) {
-  header{
-    height: 100px;
+  header {
+    height: 50px;
   }
-  main{
+  main {
     width: 100%;
     display: block;
   }
-  .box{
+  .box {
     width: 90%;
     margin: 0 auto 20px;
   }
   .box:last-child {
     margin: 0 auto;
   }
-  .img{
+  .img {
     height: 150px;
   }
 }
